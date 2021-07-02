@@ -1,0 +1,6 @@
+mc.generate://character_steve=>1 
+mc.generate://character_alex=>1
+mc.generate://character_tamed_wolf=>1
+mc.generate://character_pig=>1
+mc.generate://item_diamond_sword=>2 {[alex&steve]}
+mc.action://character_steve=>1 {[walking_forward]}
